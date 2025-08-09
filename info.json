@@ -1,0 +1,13 @@
+{
+  "name": "timeshift_planet_assets",
+  "title": "Timeshift Planet (assets)",
+  "description": "Timeshift Planet (assets)",
+  "author": "snouz",
+  "homepage": "https://github.com/snouz/timeshift_planet_assets",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base"
+  ],
+  "space_travel_required": true
+}
